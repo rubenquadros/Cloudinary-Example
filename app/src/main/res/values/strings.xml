@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Images</string>
+    <string name="cloudinary_url">cloudinary://dihgrsrbz</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="cancel">Cancel</string>
+    <string name="not_selected">No action was performed</string>
+    <string name="gallery_permission">Please allow permission to access files</string>
+    <string name="camera_permission">Please allow permission to access camera</string>
+    <string name="ok">OK</string>
+    <string name="generic_err">Something went wrong. Please try again later</string>
+    <string name="dialog_title">Please select</string>
+    <string-array name="spinner_list">
+        <item>Select Resolution</item>
+        <item>30X30</item>
+        <item>300X400</item>
+        <item>600X800</item>
+    </string-array>
+</resources>
